@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SampleHilt">
         <activity
-            android:name=".LoginActivity"
+            android:name=".ui.login.LoginActivity"
             android:exported="true"
             android:label="@string/title_activity_login"
             android:theme="@style/Theme.SampleHilt">
